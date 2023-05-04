@@ -1,10 +1,16 @@
 better to use anaconda3 to run our code
 before run the code , you may need to install come package
+
 yarn add react-qr-code
+
 npm install react-app-rewired --save-dev
+
 conda install -c conda-forge nodejs
+
 npm install hardhat
+
 npm install @mui/material @emotion/react @emotion/styled
+
 
 also our app is design for mobile, using mobile simulator to run our app is better
 https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk
