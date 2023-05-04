@@ -16,15 +16,23 @@ also our app is design for mobile, using mobile simulator to run our app is bett
 https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk
 
 open first terminal
+
 cd "path\BC-BackEnd"
+
 npx hardhat node
 
 after that open second terminal
+
 cd "path\BC-BackEnd"
+
 npx hardhat run scripts/run.js --network localhost
 
+
+
 then open third terminal
+
 cd "path\BC\BC-Front-main"
+
 npm start
 
 you will see the app open on browser.
